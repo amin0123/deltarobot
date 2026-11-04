@@ -1,0 +1,23 @@
+{
+  "accepted_grid_points": 14408,
+  "rejected_grid_points": 15710,
+  "note": "IK and bounds only; grid points are not all collision-free tool paths.",
+  "bin_routes": {
+    "red": {
+      "duration": 3.7904717095963134,
+      "max_joint_radians": 1.33670129361127
+    },
+    "blue": {
+      "duration": 3.7904717095963134,
+      "max_joint_radians": 1.33670129361127
+    },
+    "green": {
+      "duration": 0.9817825216535392,
+      "max_joint_radians": 1.33670129361127
+    },
+    "yellow": {
+      "duration": 0.9817825216535392,
+      "max_joint_radians": 1.33670129361127
+    }
+  }
+}

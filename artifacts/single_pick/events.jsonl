@@ -1,0 +1,5 @@
+{"event": "attempt_start", "time": 5.0625, "attempt": 1, "color": "red", "confidence": 0.9776962877120426, "target": [-0.012054228855721398, 0.020885447761194033, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 10.3625, "attempt": 1}
+{"event": "lift_confirmed", "time": 13.162500000000001, "attempt": 1}
+{"event": "released", "time": 16.0125, "attempt": 1, "color": "red"}
+{"event": "run_complete", "time": 20.1125, "attempt": 1}

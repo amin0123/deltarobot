@@ -1,0 +1,33 @@
+{
+  "finished": true,
+  "attempted": 1,
+  "successful_picks": 1,
+  "correct_placements": 1,
+  "failures": 0,
+  "attempts": [
+    {
+      "attempt": 1,
+      "color": "red",
+      "target": [
+        -0.012036290322580646,
+        0.020860794044665013,
+        -0.3579999999999999
+      ],
+      "start_time": 4.5625,
+      "cap_id": 0,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 15.512500000000001,
+      "actual_color": "red",
+      "destination": "red",
+      "final_position": [
+        -0.06023259088397026,
+        0.10855291038751602,
+        0.7359991669654846
+      ]
+    }
+  ],
+  "sim_time": 21.7125,
+  "actual_gripper_requests": 1
+}

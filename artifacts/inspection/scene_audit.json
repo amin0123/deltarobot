@@ -1,0 +1,13 @@
+{
+  "original_files_unchanged": 15,
+  "meters_per_unit": 1.0,
+  "up_axis": "Z",
+  "joint_counts": {
+    "PhysicsRevoluteJoint": 3,
+    "PhysicsSphericalJoint": 12
+  },
+  "articulation_roots": 0,
+  "meshes": 11,
+  "moving_fasteners_checked": 24,
+  "passed": true
+}

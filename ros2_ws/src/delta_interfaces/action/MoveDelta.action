@@ -1,0 +1,8 @@
+# Vacuum tool contact point in base_link, metres. Translation only.
+geometry_msgs/Point target
+float64 speed
+---
+bool success
+string message
+---
+float64 position_error

@@ -1,0 +1,64 @@
+{"event": "attempt_start", "time": 4.5625, "attempt": 1, "color": "red", "confidence": 0.9701007951465475, "target": [-0.012051332920024789, 0.020870179789212656, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 9.8625, "attempt": 1}
+{"event": "lift_confirmed", "time": 12.662500000000001, "attempt": 1}
+{"event": "released", "time": 15.512500000000001, "attempt": 1, "color": "red"}
+{"event": "attempt_start", "time": 25.462500000000002, "attempt": 2, "color": "blue", "confidence": 0.9682965204697825, "target": [-0.014238447204968955, -0.016758260869565222, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 30.212500000000002, "attempt": 2}
+{"event": "lift_confirmed", "time": 33.0125, "attempt": 2}
+{"event": "released", "time": 36.5625, "attempt": 2, "color": "blue"}
+{"event": "attempt_start", "time": 45.1625, "attempt": 3, "color": "green", "confidence": 0.9406861650225109, "target": [-0.08402608940118078, 0.014230531346640443, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 50.712500000000006, "attempt": 3}
+{"event": "lift_confirmed", "time": 53.5125, "attempt": 3}
+{"event": "released", "time": 56.712500000000006, "attempt": 3, "color": "green"}
+{"event": "attempt_start", "time": 63.862500000000004, "attempt": 4, "color": "yellow", "confidence": 0.9349920640418506, "target": [-0.07997667132867135, -0.024397594405594396, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 68.86250000000001, "attempt": 4}
+{"event": "lift_confirmed", "time": 71.66250000000001, "attempt": 4}
+{"event": "released", "time": 75.4625, "attempt": 4, "color": "yellow"}
+{"event": "attempt_start", "time": 83.7625, "attempt": 5, "color": "red", "confidence": 0.9558208398219521, "target": [-0.0024241648454573694, 0.004255323134561354, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 88.7625, "attempt": 5}
+{"event": "lift_confirmed", "time": 91.5625, "attempt": 5}
+{"event": "released", "time": 94.7125, "attempt": 5, "color": "red"}
+{"event": "attempt_start", "time": 103.36250000000001, "attempt": 6, "color": "blue", "confidence": 0.9232856196590792, "target": [-0.08827360308285166, -0.019522708505367477, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 108.5125, "attempt": 6}
+{"event": "lift_confirmed", "time": 111.3125, "attempt": 6}
+{"event": "released", "time": 115.66250000000001, "attempt": 6, "color": "blue"}
+{"event": "attempt_start", "time": 125.86250000000001, "attempt": 7, "color": "green", "confidence": 0.9281922304484048, "target": [-0.08079683526419894, 0.025034133936140176, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 131.5625, "attempt": 7}
+{"event": "lift_confirmed", "time": 134.3625, "attempt": 7}
+{"event": "released", "time": 137.76250000000002, "attempt": 7, "color": "green"}
+{"event": "attempt_start", "time": 144.5625, "attempt": 8, "color": "yellow", "confidence": 0.933034376361178, "target": [-0.08314598990465509, -0.008152159282108813, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 149.8125, "attempt": 8}
+{"event": "lift_confirmed", "time": 152.6125, "attempt": 8}
+{"event": "released", "time": 156.6125, "attempt": 8, "color": "yellow"}
+{"event": "attempt_start", "time": 163.66250000000002, "attempt": 9, "color": "red", "confidence": 0.9149349605610196, "target": [-0.08920088740987246, 0.004088685524126459, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 169.1125, "attempt": 9}
+{"event": "lift_confirmed", "time": 171.91250000000002, "attempt": 9}
+{"event": "released", "time": 174.8625, "attempt": 9, "color": "red"}
+{"event": "attempt_start", "time": 186.16250000000002, "attempt": 10, "color": "blue", "confidence": 0.8795098388734599, "target": [-0.04627444816053512, 0.0010812040133779306, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 191.26250000000002, "attempt": 10}
+{"event": "lift_confirmed", "time": 194.0625, "attempt": 10}
+{"event": "released", "time": 197.76250000000002, "attempt": 10, "color": "blue"}
+{"event": "attempt_start", "time": 206.8625, "attempt": 11, "color": "green", "confidence": 0.9389528364719655, "target": [-0.08257492233832253, 0.009406890708839327, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 212.3125, "attempt": 11}
+{"event": "lift_confirmed", "time": 215.1125, "attempt": 11}
+{"event": "released", "time": 218.26250000000002, "attempt": 11, "color": "green"}
+{"event": "attempt_start", "time": 225.26250000000002, "attempt": 12, "color": "yellow", "confidence": 0.9427627042419263, "target": [-0.07307266085979208, -0.028335712278729993, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 230.2125, "attempt": 12}
+{"event": "lift_confirmed", "time": 233.01250000000002, "attempt": 12}
+{"event": "released", "time": 236.76250000000002, "attempt": 12, "color": "yellow"}
+{"event": "attempt_start", "time": 243.66250000000002, "attempt": 13, "color": "red", "confidence": 0.9741828989510105, "target": [-0.07015900086132645, 0.007220729256388183, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 249.01250000000002, "attempt": 13}
+{"event": "lift_confirmed", "time": 251.81250000000003, "attempt": 13}
+{"event": "released", "time": 254.66250000000002, "attempt": 13, "color": "red"}
+{"event": "attempt_start", "time": 264.46250000000003, "attempt": 14, "color": "blue", "confidence": 0.9568441755178899, "target": [-0.07559791725302564, 0.020420602307908816, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 270.0625, "attempt": 14}
+{"event": "lift_confirmed", "time": 272.8625, "attempt": 14}
+{"event": "released", "time": 276.6625, "attempt": 14, "color": "blue"}
+{"event": "attempt_start", "time": 286.76250000000005, "attempt": 15, "color": "green", "confidence": 0.9698779098003277, "target": [-0.061778707443739186, -0.028086035776110775, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 291.6125, "attempt": 15}
+{"event": "lift_confirmed", "time": 294.4125, "attempt": 15}
+{"event": "released", "time": 296.9125, "attempt": 15, "color": "green"}
+{"event": "attempt_start", "time": 303.96250000000003, "attempt": 16, "color": "yellow", "confidence": 0.9417067009339831, "target": [-0.05953137085137087, -0.02894285714285715, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 308.71250000000003, "attempt": 16}
+{"event": "lift_confirmed", "time": 311.51250000000005, "attempt": 16}
+{"event": "released", "time": 315.1125, "attempt": 16, "color": "yellow"}

@@ -1,0 +1,8 @@
+{
+  "sim_time": 21.216666666666665,
+  "physics_steps": 5090,
+  "rgb_frames": 213,
+  "wall_seconds": 30.326558008000575,
+  "grasp_calls": 2,
+  "scenario": "failed_grasp"
+}

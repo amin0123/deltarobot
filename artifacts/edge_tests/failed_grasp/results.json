@@ -1,0 +1,26 @@
+{
+  "finished": true,
+  "attempted": 1,
+  "successful_picks": 0,
+  "correct_placements": 0,
+  "failures": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "color": "blue",
+      "target": [
+        -0.011738733705772815,
+        0.02088299193047798,
+        -0.3579999999999999
+      ],
+      "start_time": 4.6625000000000005,
+      "cap_id": null,
+      "picked": false,
+      "correct_placement": false,
+      "status": "failed",
+      "reason": "GRIP failed or timed out"
+    }
+  ],
+  "sim_time": 21.1125,
+  "actual_gripper_requests": 2
+}

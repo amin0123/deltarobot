@@ -1,0 +1,443 @@
+{
+  "finished": false,
+  "attempted": 20,
+  "successful_picks": 19,
+  "correct_placements": 19,
+  "failures": 0,
+  "attempts": [
+    {
+      "attempt": 1,
+      "color": "red",
+      "target": [
+        -0.01205884543761638,
+        0.020870018621973938,
+        -0.3579999999999999
+      ],
+      "start_time": 4.7625,
+      "cap_id": 0,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 15.662500000000001,
+      "actual_color": "red",
+      "destination": "red",
+      "final_position": [
+        -0.06020939350128174,
+        0.10853986442089081,
+        0.7359992265701294
+      ]
+    },
+    {
+      "attempt": 2,
+      "color": "blue",
+      "target": [
+        -0.06845301204819279,
+        -0.016599368904188158,
+        -0.3579999999999999
+      ],
+      "start_time": 25.1625,
+      "cap_id": 1,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 37.112500000000004,
+      "actual_color": "blue",
+      "destination": "blue",
+      "final_position": [
+        0.05912889540195465,
+        0.10826978087425232,
+        0.7359991669654846
+      ]
+    },
+    {
+      "attempt": 3,
+      "color": "green",
+      "target": [
+        -0.08416159460976982,
+        0.014231162268388569,
+        -0.3579999999999999
+      ],
+      "start_time": 46.462500000000006,
+      "cap_id": 2,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 58.112500000000004,
+      "actual_color": "green",
+      "destination": "green",
+      "final_position": [
+        -0.05975552648305893,
+        -0.10987831652164459,
+        0.7359991669654846
+      ]
+    },
+    {
+      "attempt": 4,
+      "color": "yellow",
+      "target": [
+        -0.08613268698060943,
+        -0.02438653739612187,
+        -0.3579999999999999
+      ],
+      "start_time": 65.66250000000001,
+      "cap_id": 3,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 77.4625,
+      "actual_color": "yellow",
+      "destination": "yellow",
+      "final_position": [
+        0.05794202908873558,
+        -0.11004281789064407,
+        0.7359991669654846
+      ]
+    },
+    {
+      "attempt": 5,
+      "color": "red",
+      "target": [
+        -0.07906841807909608,
+        0.004187457627118642,
+        -0.3579999999999999
+      ],
+      "start_time": 84.4625,
+      "cap_id": 4,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 95.5125,
+      "actual_color": "red",
+      "destination": "red",
+      "final_position": [
+        -0.061310283839702606,
+        0.10843966901302338,
+        0.7479991912841797
+      ]
+    },
+    {
+      "attempt": 6,
+      "color": "blue",
+      "target": [
+        -0.08138713286713288,
+        -0.0194770909090909,
+        -0.3579999999999999
+      ],
+      "start_time": 105.0625,
+      "cap_id": 5,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 117.2625,
+      "actual_color": "blue",
+      "destination": "blue",
+      "final_position": [
+        0.05889509990811348,
+        0.1082378402352333,
+        0.7479992508888245
+      ]
+    },
+    {
+      "attempt": 7,
+      "color": "green",
+      "target": [
+        -0.08040775544862724,
+        0.02506413812623833,
+        -0.3579999999999999
+      ],
+      "start_time": 126.9625,
+      "cap_id": 6,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 138.8625,
+      "actual_color": "green",
+      "destination": "green",
+      "final_position": [
+        -0.05975119397044182,
+        -0.10957455635070801,
+        0.7479992508888245
+      ]
+    },
+    {
+      "attempt": 8,
+      "color": "yellow",
+      "target": [
+        -0.08938029883785281,
+        -0.008132706142778091,
+        -0.3579999999999999
+      ],
+      "start_time": 146.16250000000002,
+      "cap_id": 7,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 158.3625,
+      "actual_color": "yellow",
+      "destination": "yellow",
+      "final_position": [
+        0.05784941464662552,
+        -0.10989891737699509,
+        0.7479992508888245
+      ]
+    },
+    {
+      "attempt": 9,
+      "color": "red",
+      "target": [
+        -0.06003312847527072,
+        0.004144571261340372,
+        -0.3579999999999999
+      ],
+      "start_time": 166.26250000000002,
+      "cap_id": 8,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 177.16250000000002,
+      "actual_color": "red",
+      "destination": "red",
+      "final_position": [
+        -0.06092149391770363,
+        0.10893568396568298,
+        0.759999692440033
+      ]
+    },
+    {
+      "attempt": 10,
+      "color": "blue",
+      "target": [
+        -0.07911259842519687,
+        0.0010516872890888637,
+        -0.3579999999999999
+      ],
+      "start_time": 186.8625,
+      "cap_id": 9,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 199.01250000000002,
+      "actual_color": "blue",
+      "destination": "blue",
+      "final_position": [
+        0.059121668338775635,
+        0.10762271285057068,
+        0.7599998116493225
+      ]
+    },
+    {
+      "attempt": 11,
+      "color": "green",
+      "target": [
+        -0.07522137142857144,
+        0.009347314285714288,
+        -0.3579999999999999
+      ],
+      "start_time": 208.66250000000002,
+      "cap_id": 10,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 220.01250000000002,
+      "actual_color": "green",
+      "destination": "green",
+      "final_position": [
+        -0.05987868830561638,
+        -0.11016644537448883,
+        0.7599995136260986
+      ]
+    },
+    {
+      "attempt": 12,
+      "color": "yellow",
+      "target": [
+        -0.07521542358570224,
+        -0.028311792851111756,
+        -0.3579999999999999
+      ],
+      "start_time": 227.16250000000002,
+      "cap_id": 11,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 238.56250000000003,
+      "actual_color": "yellow",
+      "destination": "yellow",
+      "final_position": [
+        0.05683113634586334,
+        -0.11039946228265762,
+        0.7599995732307434
+      ]
+    },
+    {
+      "attempt": 13,
+      "color": "red",
+      "target": [
+        -0.08556716750139122,
+        0.0072391764051196565,
+        -0.3579999999999999
+      ],
+      "start_time": 245.16250000000002,
+      "cap_id": 12,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 256.3625,
+      "actual_color": "red",
+      "destination": "red",
+      "final_position": [
+        -0.06142117828130722,
+        0.11023853719234467,
+        0.7719999551773071
+      ]
+    },
+    {
+      "attempt": 14,
+      "color": "blue",
+      "target": [
+        -0.05982228654124459,
+        0.02042830680173662,
+        -0.3579999999999999
+      ],
+      "start_time": 266.7625,
+      "cap_id": 13,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 278.6125,
+      "actual_color": "blue",
+      "destination": "blue",
+      "final_position": [
+        0.05993639677762985,
+        0.11046869307756424,
+        0.772000253200531
+      ]
+    },
+    {
+      "attempt": 15,
+      "color": "green",
+      "target": [
+        -0.079971918964547,
+        -0.027977096229600432,
+        -0.3579999999999999
+      ],
+      "start_time": 288.1625,
+      "cap_id": 14,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 298.6125,
+      "actual_color": "green",
+      "destination": "green",
+      "final_position": [
+        -0.062143415212631226,
+        -0.1110946536064148,
+        0.7719999551773071
+      ]
+    },
+    {
+      "attempt": 16,
+      "color": "yellow",
+      "target": [
+        -0.090652611430134,
+        -0.028862674323215768,
+        -0.3579999999999999
+      ],
+      "start_time": 305.6625,
+      "cap_id": 15,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 317.4125,
+      "actual_color": "yellow",
+      "destination": "yellow",
+      "final_position": [
+        0.059565357863903046,
+        -0.11168975383043289,
+        0.771999716758728
+      ]
+    },
+    {
+      "attempt": 17,
+      "color": "red",
+      "target": [
+        -0.0049185231151101455,
+        0.020848340055848607,
+        -0.3579999999999999
+      ],
+      "start_time": 328.1625,
+      "cap_id": 16,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 339.1125,
+      "actual_color": "red",
+      "destination": "red",
+      "final_position": [
+        -0.06006689742207527,
+        0.10892636328935623,
+        0.7839996814727783
+      ]
+    },
+    {
+      "attempt": 18,
+      "color": "blue",
+      "target": [
+        -0.08917955922865015,
+        -0.015598732782369146,
+        -0.3579999999999999
+      ],
+      "start_time": 348.5625,
+      "cap_id": 17,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 360.96250000000003,
+      "actual_color": "blue",
+      "destination": "blue",
+      "final_position": [
+        0.0589543953537941,
+        0.11032836139202118,
+        0.7840002179145813
+      ]
+    },
+    {
+      "attempt": 19,
+      "color": "green",
+      "target": [
+        -0.004530754716981142,
+        0.005894591194968558,
+        -0.3579999999999999
+      ],
+      "start_time": 372.5625,
+      "cap_id": 18,
+      "picked": true,
+      "correct_placement": true,
+      "status": "placed",
+      "release_time": 383.71250000000003,
+      "actual_color": "green",
+      "destination": "green",
+      "final_position": [
+        -0.05894068256020546,
+        -0.11029981076717377,
+        0.7840000987052917
+      ]
+    },
+    {
+      "attempt": 20,
+      "color": "yellow",
+      "target": [
+        -0.05128938183969242,
+        -0.014850872522922215,
+        -0.3579999999999999
+      ],
+      "start_time": 389.8625,
+      "cap_id": null,
+      "picked": false,
+      "correct_placement": false,
+      "status": "active"
+    }
+  ],
+  "sim_time": 389.8125,
+  "actual_gripper_requests": 19
+}

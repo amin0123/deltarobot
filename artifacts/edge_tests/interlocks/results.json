@@ -1,0 +1,10 @@
+{
+  "finished": true,
+  "attempted": 0,
+  "successful_picks": 0,
+  "correct_placements": 0,
+  "failures": 0,
+  "attempts": [],
+  "sim_time": 14.7125,
+  "actual_gripper_requests": 1
+}

@@ -1,0 +1,7 @@
+{
+  "python": "3.12.13 (tags/v3.12.13-dirty:3bb231a, Mar  4 2026, 13:53:36) [GCC 11.4.0]",
+  "engine": "physx",
+  "time": 0.3416666666666667,
+  "rclpy": "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py",
+  "cube_z": 0.42042675614356995
+}

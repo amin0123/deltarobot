@@ -1,0 +1,11 @@
+{
+  "unreachable_action_rejected": true,
+  "nan_action_rejected": true,
+  "empty_grasp_rejected": true,
+  "conveyor_start_rejected_while_stopped": true,
+  "motion_rejected_while_stopped": true,
+  "reset_clears_stop": true,
+  "controlled_joint_motion_after_reset": true,
+  "measured_tool_error_m": 1.8218516293914606e-06,
+  "passed": true
+}

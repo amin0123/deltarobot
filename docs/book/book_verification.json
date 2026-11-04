@@ -1,0 +1,21 @@
+{
+  "edition": "2026-09-24",
+  "pdf": "Delta_Robot_Sorting_Project_Guide.pdf",
+  "pages": 34,
+  "searchable_words": 8302,
+  "outline_entries": 34,
+  "validated_internal_links": 95,
+  "fonts_embedded": {
+    "/AAAAAA+DejaVuSans-Bold": true,
+    "/AAAAAA+DejaVuSans": true,
+    "/AAAAAA+DejaVuSans-Oblique": true,
+    "/AAAAAA+DejaVuSansMono": true
+  },
+  "out_of_page_text": [],
+  "all_pages_rendered_and_reviewed": true,
+  "protected_existing_files": 376,
+  "changed_protected_files": [],
+  "simulator_or_ros_execution_for_book": false,
+  "simulation_results_source": "Previously recorded project artifacts; no new robotics validation claimed.",
+  "pdf_sha256": "6996d33e3211291757a2e132a096295eca2083647c98c421c801aea25a53ab23"
+}

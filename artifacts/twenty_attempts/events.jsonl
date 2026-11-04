@@ -1,0 +1,81 @@
+{"event": "attempt_start", "time": 4.862500000000001, "attempt": 1, "color": "red", "confidence": 0.9825417094831134, "target": [-0.00580947926410978, 0.02092840661053945, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 10.2125, "attempt": 1}
+{"event": "lift_confirmed", "time": 13.012500000000001, "attempt": 1}
+{"event": "released", "time": 15.912500000000001, "attempt": 1, "color": "red"}
+{"event": "attempt_start", "time": 24.962500000000002, "attempt": 2, "color": "blue", "confidence": 0.928362806095271, "target": [-0.06546547756041429, -0.01658831990794016, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 29.962500000000002, "attempt": 2}
+{"event": "lift_confirmed", "time": 32.7625, "attempt": 2}
+{"event": "released", "time": 36.8125, "attempt": 2, "color": "blue"}
+{"event": "attempt_start", "time": 46.862500000000004, "attempt": 3, "color": "green", "confidence": 0.9661060736782964, "target": [-0.06827614095898327, 0.014204448295782808, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 52.362500000000004, "attempt": 3}
+{"event": "lift_confirmed", "time": 55.1625, "attempt": 3}
+{"event": "released", "time": 58.362500000000004, "attempt": 3, "color": "green"}
+{"event": "attempt_start", "time": 64.8625, "attempt": 4, "color": "yellow", "confidence": 0.9324123026639524, "target": [-0.08638479889042998, -0.02436049930651874, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 70.0125, "attempt": 4}
+{"event": "lift_confirmed", "time": 72.8125, "attempt": 4}
+{"event": "released", "time": 76.7125, "attempt": 4, "color": "yellow"}
+{"event": "attempt_start", "time": 83.9625, "attempt": 5, "color": "red", "confidence": 0.9678352046505373, "target": [-0.06359190751445087, 0.004169479768786136, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 89.2625, "attempt": 5}
+{"event": "lift_confirmed", "time": 92.0625, "attempt": 5}
+{"event": "released", "time": 94.9625, "attempt": 5, "color": "red"}
+{"event": "attempt_start", "time": 104.4625, "attempt": 6, "color": "blue", "confidence": 0.9508536819402283, "target": [-0.0743035008469791, -0.019509768492377195, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 109.4625, "attempt": 6}
+{"event": "lift_confirmed", "time": 112.2625, "attempt": 6}
+{"event": "released", "time": 116.4625, "attempt": 6, "color": "blue"}
+{"event": "attempt_start", "time": 125.9625, "attempt": 7, "color": "green", "confidence": 0.9399106902732413, "target": [-0.08659977684797772, 0.025087308228730842, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 131.6625, "attempt": 7}
+{"event": "lift_confirmed", "time": 134.4625, "attempt": 7}
+{"event": "released", "time": 137.8625, "attempt": 7, "color": "green"}
+{"event": "attempt_start", "time": 144.66250000000002, "attempt": 8, "color": "yellow", "confidence": 0.9517132152609773, "target": [-0.08863673018503178, -0.008136592101629373, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 149.9625, "attempt": 8}
+{"event": "lift_confirmed", "time": 152.76250000000002, "attempt": 8}
+{"event": "released", "time": 156.8625, "attempt": 8, "color": "yellow"}
+{"event": "attempt_start", "time": 164.16250000000002, "attempt": 9, "color": "red", "confidence": 0.9391518561346079, "target": [-0.07294789819845585, 0.0040914498141264065, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 169.4625, "attempt": 9}
+{"event": "lift_confirmed", "time": 172.26250000000002, "attempt": 9}
+{"event": "released", "time": 175.26250000000002, "attempt": 9, "color": "red"}
+{"event": "attempt_start", "time": 186.4625, "attempt": 10, "color": "blue", "confidence": 0.9563963578394897, "target": [0.01723992197659295, 0.0011654746423927238, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 191.4625, "attempt": 10}
+{"event": "lift_confirmed", "time": 194.26250000000002, "attempt": 10}
+{"event": "released", "time": 197.3625, "attempt": 10, "color": "blue"}
+{"event": "attempt_start", "time": 205.4625, "attempt": 11, "color": "green", "confidence": 0.9425419425887066, "target": [-0.09093082287308231, 0.009339748953974892, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 211.01250000000002, "attempt": 11}
+{"event": "lift_confirmed", "time": 213.8125, "attempt": 11}
+{"event": "released", "time": 217.01250000000002, "attempt": 11, "color": "green"}
+{"event": "attempt_start", "time": 224.0625, "attempt": 12, "color": "yellow", "confidence": 0.9150641603217288, "target": [-0.07811507847533634, -0.02832303811659191, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 229.01250000000002, "attempt": 12}
+{"event": "lift_confirmed", "time": 231.81250000000003, "attempt": 12}
+{"event": "released", "time": 235.56250000000003, "attempt": 12, "color": "yellow"}
+{"event": "attempt_start", "time": 243.3625, "attempt": 13, "color": "red", "confidence": 0.9453015920285589, "target": [-0.06918770821367032, 0.007250603101665724, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 248.7125, "attempt": 13}
+{"event": "lift_confirmed", "time": 251.51250000000002, "attempt": 13}
+{"event": "released", "time": 254.41250000000002, "attempt": 13, "color": "red"}
+{"event": "attempt_start", "time": 264.3625, "attempt": 14, "color": "blue", "confidence": 0.9484070683756111, "target": [-0.07896659167604052, 0.020368391451068626, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 269.96250000000003, "attempt": 14}
+{"event": "lift_confirmed", "time": 272.7625, "attempt": 14}
+{"event": "released", "time": 276.6125, "attempt": 14, "color": "blue"}
+{"event": "attempt_start", "time": 286.3625, "attempt": 15, "color": "green", "confidence": 0.9400295052810206, "target": [-0.07436592465753426, -0.02799994292237441, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 291.3625, "attempt": 15}
+{"event": "lift_confirmed", "time": 294.1625, "attempt": 15}
+{"event": "released", "time": 296.71250000000003, "attempt": 15, "color": "green"}
+{"event": "attempt_start", "time": 303.8625, "attempt": 16, "color": "yellow", "confidence": 0.9489218102582215, "target": [-0.05489579684763573, -0.028896263864565078, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 308.6625, "attempt": 16}
+{"event": "lift_confirmed", "time": 311.46250000000003, "attempt": 16}
+{"event": "released", "time": 314.9125, "attempt": 16, "color": "yellow"}
+{"event": "attempt_start", "time": 321.46250000000003, "attempt": 17, "color": "red", "confidence": 0.9441130019992537, "target": [-0.07060086058519793, 0.020536603557085507, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 327.01250000000005, "attempt": 17}
+{"event": "lift_confirmed", "time": 329.8125, "attempt": 17}
+{"event": "released", "time": 332.46250000000003, "attempt": 17, "color": "red"}
+{"event": "attempt_start", "time": 342.5625, "attempt": 18, "color": "blue", "confidence": 0.9687739192331674, "target": [-0.0500755765819042, -0.01559810762862211, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 347.4125, "attempt": 18}
+{"event": "lift_confirmed", "time": 350.21250000000003, "attempt": 18}
+{"event": "released", "time": 354.1125, "attempt": 18, "color": "blue"}
+{"event": "attempt_start", "time": 363.3625, "attempt": 19, "color": "green", "confidence": 0.9408419887481123, "target": [-0.07501415472779373, 0.005840802292263619, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 368.71250000000003, "attempt": 19}
+{"event": "lift_confirmed", "time": 371.51250000000005, "attempt": 19}
+{"event": "released", "time": 374.6125, "attempt": 19, "color": "green"}
+{"event": "attempt_start", "time": 382.1625, "attempt": 20, "color": "yellow", "confidence": 0.9745465626209708, "target": [-0.04828550811785931, -0.014810583283223095, -0.3579999999999999]}
+{"event": "vacuum_confirmed", "time": 387.1125, "attempt": 20}
+{"event": "lift_confirmed", "time": 389.9125, "attempt": 20}
+{"event": "released", "time": 393.46250000000003, "attempt": 20, "color": "yellow"}
+{"event": "run_complete", "time": 394.76250000000005, "attempt": 20}

@@ -1,0 +1,120 @@
+bin_geometry:
+  floor: 0.73
+  inner_width: 0.075
+  release_z: -0.305
+  rim: 0.82
+bins:
+  blue:
+  - 0.06
+  - 0.11
+  green:
+  - -0.06
+  - -0.11
+  red:
+  - -0.06
+  - 0.11
+  yellow:
+  - 0.06
+  - -0.11
+camera:
+  focal_length_mm: 12.0
+  frame_rate: 10
+  height: 480
+  horizontal_aperture_mm: 16.0
+  position:
+  - 0.0
+  - 0.0
+  - 1.1
+  width: 640
+caps:
+  colors:
+    blue:
+    - 0.008
+    - 0.05
+    - 0.85
+    green:
+    - 0.01
+    - 0.65
+    - 0.035
+    red:
+    - 0.8
+    - 0.012
+    - 0.008
+    yellow:
+    - 0.95
+    - 0.7
+    - 0.008
+  count: 2
+  friction: 0.45
+  height: 0.012
+  mass: 0.0022
+  radius: 0.014
+  seed: 17
+  spacing: 0.12
+conveyor:
+  length: 3.4
+  pick_x:
+  - -0.095
+  - 0.095
+  pick_y:
+  - -0.045
+  - 0.045
+  speed: 0.065
+  top: 0.8
+  width: 0.13
+perception:
+  hue_ranges:
+    blue:
+    - - 100
+      - 135
+    green:
+    - - 40
+      - 85
+    red:
+    - - 0
+      - 10
+    - - 170
+      - 179
+    yellow:
+    - - 20
+      - 37
+  max_area: 3200.0
+  min_area: 300.0
+  min_circularity: 0.77
+  min_confidence: 0.8
+  min_saturation: 95
+  min_solidity: 0.93
+  min_value: 55
+robot:
+  approach_speed: 0.045
+  base_height: 1.17
+  cartesian_speed: 0.12
+  drive_damping: 30.0
+  drive_stiffness: 1500.0
+  home:
+  - 0.0
+  - -0.125
+  - -0.3
+  joint_acceleration: 2.0
+  joint_speed: 0.85
+  max_torque: 15.0
+  position_tolerance: 0.002
+  travel_z: -0.295
+  workspace_radius: 0.185
+  z_range:
+  - -0.385
+  - -0.28
+simulation:
+  max_time: 1000.0
+  physics_dt: 0.004166666666666667
+  render_dt: 0.05
+  solver_position_iterations: 64
+  solver_velocity_iterations: 8
+task:
+  autostart: false
+  detection_timeout: 3.0
+  empty_feed_timeout: 7.0
+  max_attempts: 24
+  max_pick_retries: 1
+  operation_timeout: 16.0
+  settle_time: 0.6
